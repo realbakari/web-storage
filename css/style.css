@@ -1,0 +1,26 @@
+body {
+    background-color: yellow;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+#loadColcor{
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+#author {
+
+    position: fixed;
+    font-size: 14px;
+    color: rbg(0,0,0,0.9)
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
